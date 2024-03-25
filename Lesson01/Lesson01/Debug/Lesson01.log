@@ -1,0 +1,13 @@
+﻿  main.cpp
+F:\Visual studio2022代码仓库\Lesson01\Lesson01\main.cpp(65,4): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [17]”转换为“LPCWSTR”
+F:\Visual studio2022代码仓库\Lesson01\Lesson01\main.cpp(65,18): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(9161,1): message : 参见“MessageBoxW”的声明
+F:\Visual studio2022代码仓库\Lesson01\Lesson01\main.cpp(65,4): message : 尝试匹配参数列表“(int, const char [17], int, int)”时
+F:\Visual studio2022代码仓库\Lesson01\Lesson01\main.cpp(68,5): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [17]”转换为“LPCWSTR”
+F:\Visual studio2022代码仓库\Lesson01\Lesson01\main.cpp(68,19): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(9161,1): message : 参见“MessageBoxW”的声明
+F:\Visual studio2022代码仓库\Lesson01\Lesson01\main.cpp(68,5): message : 尝试匹配参数列表“(int, const char [17], int, int)”时
+F:\Visual studio2022代码仓库\Lesson01\Lesson01\main.cpp(74,5): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [15]”转换为“LPCWSTR”
+F:\Visual studio2022代码仓库\Lesson01\Lesson01\main.cpp(74,19): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(9161,1): message : 参见“MessageBoxW”的声明
+F:\Visual studio2022代码仓库\Lesson01\Lesson01\main.cpp(74,5): message : 尝试匹配参数列表“(int, const char [15], int, int)”时
