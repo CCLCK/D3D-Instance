@@ -1,0 +1,3 @@
+﻿  Light.cpp
+F:\Visual studio2022代码仓库\Lesson04\Lesson04\Light.cpp(120,17): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  Lesson04.vcxproj -> F:\Visual studio2022代码仓库\Lesson04\x64\Debug\Lesson04.exe
